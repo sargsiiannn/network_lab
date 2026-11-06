@@ -65,7 +65,7 @@ gh repo create taglink --source=. --private --remote=origin --push
 gh repo view --json url --jq .url
 ```
 
-Use the visibility required by the course and make sure the instructor has access to the printed URL.
+
 
 ## References
 
